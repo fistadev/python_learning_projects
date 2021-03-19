@@ -1,0 +1,27 @@
+from random import seed
+from random import randint
+
+
+print('Welcome to the Lottery')
+print("""
+Choose 3 Numbers from 0-20.
+""")
+
+number1 = int(input('First Number: '))
+number2 = int(input('Second Number: '))
+number3 = int(input('Third Number: '))
+
+seed(1)
+
+print("""
+Those are the right numbers :
+""")
+
+for lottery in range(3):
+    value = randint(0,20)
+    print(value)
+
+if number1 == value and number2 == value and number3 == value:
+    print('Yeah, you won!!' )
+else:
+    print('Sorry, you lost...Try again.')
