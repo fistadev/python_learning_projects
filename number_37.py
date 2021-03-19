@@ -11,3 +11,5 @@ t(a, ',', a, ',', a, ': ', check_result)
 
 print(f'( {a} + {a} + {a} ) * 37 = {result}')
 print(f'{a} , {a} , {a} : {check_result}')
+
+# I don't know if it's a coincidence or what
