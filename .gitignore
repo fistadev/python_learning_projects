@@ -1,5 +1,12 @@
 
 .idea/inspectionProfiles/profiles_settings.xml
-.idea/inspectionProfiles/profiles_settings.xml
 .idea/modules.xml
 .idea/python_learning_projects.iml
+
+.idea
+.ipynb
+
+.git
+.svn
+.hg
+.DS_Store
