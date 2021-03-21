@@ -6,8 +6,7 @@ result = n * (3 * a)
 check_result = 3 * str(a)
 
 print('(', a, '+', a, '+', a, ') ', '* 37 =', result)
-prin
-t(a, ',', a, ',', a, ': ', check_result)
+print(a, ',', a, ',', a, ': ', check_result)
 
 print(f'( {a} + {a} + {a} ) * 37 = {result}')
 print(f'{a} , {a} , {a} : {check_result}')
