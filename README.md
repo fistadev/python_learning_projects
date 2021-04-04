@@ -12,3 +12,8 @@
 * [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) # py4e
 * [Python for beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
 * [Programming Foundations](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?utm_medium=email&_hsmi=98464248&_hsenc=p2ANqtz-8M668b2ynV1O13X_s3rL0OPwsnSL-iQT0NHLyciHL6P1YRZfTj1eD2ZmVJO71zh1ZoIN8miPYxQUh1V_WQ_m26XHkRLw&utm_content=98464248&utm_source=hs_automation)
+
+### Object Oriented Programming
+
+* [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+* 
