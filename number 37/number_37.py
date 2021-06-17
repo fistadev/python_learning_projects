@@ -1,12 +1,12 @@
 # number 37 is magical
-a = int(input('Number: '))
+a = int(input('Number from 1 to 9: '))
 n = 37
 
 result = n * (3 * a)
 check_result = 3 * str(a)
 
-print('(', a, '+', a, '+', a, ') ', '* 37 =', result)
-print(a, ',', a, ',', a, ': ', check_result)
+# print('(', a, '+', a, '+', a, ') ', '* 37 =', result)
+# print(a, ',', a, ',', a, ': ', check_result)
 
 print(f'( {a} + {a} + {a} ) * 37 = {result}')
 print(f'{a} , {a} , {a} : {check_result}')
